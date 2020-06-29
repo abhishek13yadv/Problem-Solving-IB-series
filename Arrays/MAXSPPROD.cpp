@@ -1,3 +1,6 @@
+# Maximum Special Product
+
+```
 int Solution::maxSpecialProduct(vector<int> &A) {
     long int lsv = 0;
     long int rsv = 0;
@@ -34,3 +37,4 @@ int Solution::maxSpecialProduct(vector<int> &A) {
 
     return (int) (max % 1000000007);
 }
+```
