@@ -1,3 +1,6 @@
+# N/3 Repeat Numbers
+
+```
 int Solution::repeatedNumber(const vector<int> &A) {
     // Do not write main() function.
     // Do not read input, instead use the arguments to the function.
@@ -50,3 +53,5 @@ int Solution::repeatedNumber(const vector<int> &A) {
     return -1; 
     
 }
+
+```
