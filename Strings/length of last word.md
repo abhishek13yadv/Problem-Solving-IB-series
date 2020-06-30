@@ -1,3 +1,6 @@
+## Length of Last Word
+
+```
 int Solution::lengthOfLastWord(const string A) {
     int count = 0;
     int i = A.size()-1;
@@ -10,3 +13,4 @@ int Solution::lengthOfLastWord(const string A) {
     }
     return count;
 }
+```
