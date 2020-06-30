@@ -1,4 +1,6 @@
-string Solution::solve(string A) {
+## Reverse the String
+
+```string Solution::solve(string A) {
     stringstream ss(A);
     string word,res;
     ss>>res;
@@ -8,3 +10,4 @@ string Solution::solve(string A) {
     }
     return res;
 }
+```
